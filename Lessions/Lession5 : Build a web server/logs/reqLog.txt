@@ -1,0 +1,4 @@
+20230508	10:52:49	cc40efe9-a3b8-42ea-b390-a3a72c6ba8f1	/new-page	GET
+20230508	10:52:49	13c4b901-ee4e-429c-816f-6a0d0aa5071d	/css/style.css	GET
+20230508	10:52:49	52d97e19-a70a-469b-93c2-5be28dd8ebfa	/img/img1.jpg	GET
+20230508	10:52:49	3201416a-05d0-43b4-b47e-107e0ccb19b9	/favicon.ico	GET
