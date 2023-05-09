@@ -1,33 +1,29 @@
 {
-  "name": "nodejslearn",
+  "name": "15tut",
   "version": "1.0.0",
-  "description": "",
+  "description": "MongoDB tutorial",
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/featherflare/nodeJsLearning.git"
-  },
-  "author": "",
+  "author": "Dave Gray",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/featherflare/nodeJsLearning/issues"
+  "engines": {
+    "node": "14.x"
   },
-  "homepage": "https://github.com/featherflare/nodeJsLearning#readme",
   "dependencies": {
-    "bcrypt": "^5.1.0",
-    "cookie-parser": "^1.4.6",
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
-    "date-fns": "^2.30.0",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "jsonwebtoken": "^9.0.0",
-    "uuid": "^9.0.0"
+    "date-fns": "^2.23.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.11",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.12"
   }
 }
