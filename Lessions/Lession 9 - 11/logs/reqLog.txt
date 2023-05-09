@@ -26,3 +26,15 @@
 20210919	14:36:33	c3689027-d6e0-44d5-ab49-a2da4deb3a64	PUT	undefined	/employees
 20210919	14:36:53	86f56842-518f-44d2-b790-08a2d09d9727	DELETE	undefined	/employees
 20210919	14:37:21	271bf802-e8f9-4ccd-ab4a-5e37b052bde1	GET	undefined	/employees/1
+20230508	15:08:28	e0e5b885-cf31-4f4b-8824-b8940afe5328	GET	undefined	/
+20230508	15:08:28	13f1cd47-930f-4870-bda3-93ea80a65242	GET	undefined	/css/style.css
+20230509	09:05:24	c9538d54-6016-45e7-8261-648e17fdc76d	GET	undefined	/
+20230509	09:05:24	dd178c81-6697-4122-8287-6ddcfeea5a00	GET	undefined	/css/style.css
+20230509	09:05:27	2bd6b0ee-32b9-472d-9c0a-b0c6230b6826	GET	undefined	/
+20230509	09:05:27	ed334c7c-3b6b-4d1f-9070-4d5c76b0ff49	GET	undefined	/css/style.css
+20230509	09:15:24	646ebcdc-4ca5-4f79-81b3-545d4ea8de08	GET	undefined	/
+20230509	09:15:52	fbe5b921-3efb-4e63-bc76-0ace70184527	POST	undefined	/auth
+20230509	09:16:37	ee9f1585-33d0-42a0-9b01-603e32cdf560	POST	undefined	/auth
+20230509	09:16:49	b8c38594-4cf8-4458-a0f3-8df96bdd3118	POST	undefined	/register
+20230509	09:16:53	5f44f3a3-ed08-4cc9-b247-79c86079e30b	POST	undefined	/register
+20230509	09:16:55	715359da-c7b8-45e9-b226-21709dd458c9	POST	undefined	/register
